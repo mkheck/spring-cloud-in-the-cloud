@@ -4,3 +4,6 @@
 [submodule "admin-service"]
 	path = admin-service
 	url = https://github.com/mkheck/mh-aasc-admin-service.git
+[submodule "airport-service"]
+	path = airport-service
+	url = https://github.com/mkheck/mh-aasc-airport-service.git
