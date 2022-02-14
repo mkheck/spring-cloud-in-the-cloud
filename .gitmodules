@@ -7,3 +7,6 @@
 [submodule "airport-service"]
 	path = airport-service
 	url = https://github.com/mkheck/mh-aasc-airport-service.git
+[submodule "weather-service"]
+	path = weather-service
+	url = https://github.com/mkheck/mh-aasc-weather-service.git
