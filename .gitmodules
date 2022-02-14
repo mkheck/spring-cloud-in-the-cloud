@@ -1,0 +1,3 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/mkheck/mh-aasc-api-gateway.git
