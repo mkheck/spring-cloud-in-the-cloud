@@ -10,3 +10,6 @@
 [submodule "weather-service"]
 	path = weather-service
 	url = https://github.com/mkheck/mh-aasc-weather-service.git
+[submodule "config"]
+	path = config
+	url = https://github.com/mkheck/mh-aasc-config.git
