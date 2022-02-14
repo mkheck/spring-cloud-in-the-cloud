@@ -1,3 +1,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/mkheck/mh-aasc-api-gateway.git
+[submodule "admin-service"]
+	path = admin-service
+	url = https://github.com/mkheck/mh-aasc-admin-service.git
