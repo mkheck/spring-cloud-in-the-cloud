@@ -13,5 +13,6 @@
         <module>admin-service</module>
         <module>airport-service</module>
         <module>weather-service</module>
+        <module>conditions-service</module>
     </modules>
 </project>
