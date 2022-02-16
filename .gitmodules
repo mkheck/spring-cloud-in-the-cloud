@@ -13,3 +13,6 @@
 [submodule "config"]
 	path = config
 	url = https://github.com/mkheck/mh-aasc-config.git
+[submodule "conditions-service"]
+	path = conditions-service
+	url = https://github.com/mkheck/mh-aasc-conditions-service.git
